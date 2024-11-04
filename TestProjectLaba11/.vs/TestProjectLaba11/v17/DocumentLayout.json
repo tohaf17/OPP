@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|c:\\users\\admin\\source\\repos\\testprojectlaba11\\testprojectlaba11\\data_for_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|solutionrelative:testprojectlaba11\\data_for_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|c:\\users\\admin\\source\\repos\\testprojectlaba11\\testprojectlaba11\\unit_test_cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|solutionrelative:testprojectlaba11\\unit_test_cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|c:\\users\\admin\\source\\repos\\testprojectlaba11\\testprojectlaba11\\unittestsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|solutionrelative:testprojectlaba11\\unittestsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|c:\\users\\admin\\source\\repos\\testprojectlaba11\\testprojectlaba11\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|solutionrelative:testprojectlaba11\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|c:\\users\\admin\\source\\repos\\testprojectlaba11\\testprojectlaba11\\t_square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|solutionrelative:testprojectlaba11\\t_square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|c:\\users\\admin\\source\\repos\\testprojectlaba11\\testprojectlaba11\\t_cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBDDD-5D3B-43E9-9942-D092C00529D6}|TestProjectLaba11\\TestProjectLaba11.csproj|solutionrelative:testprojectlaba11\\t_cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTestSquare.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\UnitTestSquare.cs",
+              "RelativeDocumentMoniker": "TestProjectLaba11\\UnitTestSquare.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\UnitTestSquare.cs",
+              "RelativeToolTip": "TestProjectLaba11\\UnitTestSquare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:49:04.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit_Test_Cube.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\Unit_Test_Cube.cs",
+              "RelativeDocumentMoniker": "TestProjectLaba11\\Unit_Test_Cube.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\Unit_Test_Cube.cs",
+              "RelativeToolTip": "TestProjectLaba11\\Unit_Test_Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:46:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data_For_Test.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\Data_For_Test.cs",
+              "RelativeDocumentMoniker": "TestProjectLaba11\\Data_For_Test.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\Data_For_Test.cs",
+              "RelativeToolTip": "TestProjectLaba11\\Data_For_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:46:41.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "T_Cube.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\T_Cube.cs",
+              "RelativeDocumentMoniker": "TestProjectLaba11\\T_Cube.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\T_Cube.cs",
+              "RelativeToolTip": "TestProjectLaba11\\T_Cube.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:15:15.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "T_Square.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\T_Square.cs",
+              "RelativeDocumentMoniker": "TestProjectLaba11\\T_Square.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\T_Square.cs",
+              "RelativeToolTip": "TestProjectLaba11\\T_Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:36:11.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\Line.cs",
+              "RelativeDocumentMoniker": "TestProjectLaba11\\Line.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\TestProjectLaba11\\TestProjectLaba11\\Line.cs",
+              "RelativeToolTip": "TestProjectLaba11\\Line.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:30:29.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
