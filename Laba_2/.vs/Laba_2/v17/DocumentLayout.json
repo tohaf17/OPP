@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6828A64-D4B7-4850-B9C2-B6B2DC49F9D5}|Laba_2\\Laba_2.csproj|c:\\users\\admin\\source\\repos\\laba_2\\laba_2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6828A64-D4B7-4850-B9C2-B6B2DC49F9D5}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laba_2\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6828A64-D4B7-4850-B9C2-B6B2DC49F9D5}|Laba_2\\Laba_2.csproj|c:\\users\\admin\\source\\repos\\laba_2\\laba_2\\matrix_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6828A64-D4B7-4850-B9C2-B6B2DC49F9D5}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\matrix_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laba_2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE71DF18-04E7-4A99-B2D7-852A4A04391B}|TestProject1\\TestProject1.csproj|c:\\users\\admin\\source\\repos\\laba_2\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE71DF18-04E7-4A99-B2D7-852A4A04391B}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\Matrix_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laba_2\\Matrix_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6828A64-D4B7-4850-B9C2-B6B2DC49F9D5}|Laba_2\\Laba_2.csproj|c:\\users\\admin\\source\\repos\\laba_2\\laba_2\\myfrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6828A64-D4B7-4850-B9C2-B6B2DC49F9D5}|Laba_2\\Laba_2.csproj|solutionrelative:laba_2\\myfrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\TestProject1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestProject1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\MyFrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laba_2\\MyFrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Matrix_Data.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\Laba_2\\Matrix_Data.cs",
-              "RelativeDocumentMoniker": "Laba_2\\Matrix_Data.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\Laba_2\\Matrix_Data.cs",
-              "RelativeToolTip": "Laba_2\\Matrix_Data.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:04:39.551Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\input.txt",
+              "RelativeDocumentMoniker": "Laba_2\\input.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\input.txt",
+              "RelativeToolTip": "Laba_2\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-06T10:52:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Matrix_Data.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\Matrix_Data.cs",
+              "RelativeDocumentMoniker": "Laba_2\\Matrix_Data.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\Matrix_Data.cs",
+              "RelativeToolTip": "Laba_2\\Matrix_Data.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:04:39.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\TestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,27 +79,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\Laba_2\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\Menu.cs",
               "RelativeDocumentMoniker": "Laba_2\\Menu.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\Laba_2\\Menu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\Menu.cs",
               "RelativeToolTip": "Laba_2\\Menu.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T11:04:33.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MyFrac.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\Laba_2\\MyFrac.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\MyFrac.cs",
               "RelativeDocumentMoniker": "Laba_2\\MyFrac.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Laba_2\\Laba_2\\MyFrac.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\MyFrac.cs",
               "RelativeToolTip": "Laba_2\\MyFrac.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:04:31.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T11:04:31.581Z"
             }
           ]
         }

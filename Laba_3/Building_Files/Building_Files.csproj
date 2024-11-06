@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bad_data.txt\**" />
+    <Compile Remove="no_file.txt\**" />
+    <Compile Remove="overflow.txt\**" />
+    <EmbeddedResource Remove="bad_data.txt\**" />
+    <EmbeddedResource Remove="no_file.txt\**" />
+    <EmbeddedResource Remove="overflow.txt\**" />
+    <None Remove="bad_data.txt\**" />
+    <None Remove="no_file.txt\**" />
+    <None Remove="overflow.txt\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Laba_3\Laba_3.csproj" />
+  </ItemGroup>
+
+</Project>

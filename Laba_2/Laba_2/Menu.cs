@@ -44,7 +44,7 @@ namespace Laba_2
             //{
             //    data[i] = ReadLine();
             //}
-            List<Matrix> matrices = Matrix.Matrix_From_File("C:\\Users\\ADMIN\\source\\repos\\Laba_2\\Laba_2\\input.txt");
+            List<Matrix> matrices = Matrix.Matrix_From_File("C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_2\\Laba_2\\input.txt");
             Matrix A= matrices[0];
             WriteLine(A);
 
@@ -56,7 +56,7 @@ namespace Laba_2
             //{
             //    two_data[i] = ReadLine();
             //}
-            Matrix B = matrices[1];
+            Matrix B = matrices[2];
             WriteLine(B);
             Matrix matric_copy= new Matrix(A);
             matric_copy[0, 0] = -100;
