@@ -4,9 +4,11 @@
     "\\Laba_3",
     "\\Laba_3\\bad_data.txt",
     "\\Laba_3\\Building_Files",
+    "\\Laba_3\\Files",
     "\\Laba_3\\Laba_3",
-    "\\Laba_3\\no_file.txt"
+    "\\Laba_3\\no_file.txt",
+    "\\Laba_3\\overflow.txt"
   ],
-  "SelectedNode": "\\Laba_3\\Laba_3\\Program.cs",
+  "SelectedNode": "\\Laba_3\\overflow.txt\\22.txt",
   "PreviewInSolutionExplorer": false
 }

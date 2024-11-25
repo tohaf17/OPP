@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D8F2554-9EEC-422F-8175-9066D6D0D6BF}|Laba_3\\Laba_3.csproj|c:\\users\\admin\\documents\\github\\opp\\laba_3\\laba_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D8F2554-9EEC-422F-8175-9066D6D0D6BF}|Laba_3\\Laba_3.csproj|solutionrelative:laba_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB9DF330-B59C-4994-908C-2924A6EEF690}|Building_Files\\Building_Files.csproj|c:\\users\\admin\\documents\\github\\opp\\laba_3\\building_files\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB9DF330-B59C-4994-908C-2924A6EEF690}|Building_Files\\Building_Files.csproj|solutionrelative:building_files\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Building_Files\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Building_Files\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\27.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\27.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\23.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\23.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\21.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\21.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\15.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\15.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\14.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\14.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\13.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\13.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\11.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\11.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\17.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\17.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\16.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Files\\16.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8F2554-9EEC-422F-8175-9066D6D0D6BF}|Laba_3\\Laba_3.csproj|c:\\users\\admin\\documents\\github\\opp\\laba_3\\laba_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F2554-9EEC-422F-8175-9066D6D0D6BF}|Laba_3\\Laba_3.csproj|solutionrelative:laba_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\10.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -26,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +67,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "27.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\27.txt",
+              "RelativeDocumentMoniker": "Files\\27.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\27.txt",
+              "RelativeToolTip": "Files\\27.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:40:32.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "23.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\23.txt",
+              "RelativeDocumentMoniker": "Files\\23.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\23.txt",
+              "RelativeToolTip": "Files\\23.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:40:30.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "21.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\21.txt",
+              "RelativeDocumentMoniker": "Files\\21.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\21.txt",
+              "RelativeToolTip": "Files\\21.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:40:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "14.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\14.txt",
+              "RelativeDocumentMoniker": "Files\\14.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\14.txt",
+              "RelativeToolTip": "Files\\14.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:39:54.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "13.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\13.txt",
+              "RelativeDocumentMoniker": "Files\\13.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\13.txt",
+              "RelativeToolTip": "Files\\13.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:39:39.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "11.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\11.txt",
+              "RelativeDocumentMoniker": "Files\\11.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\11.txt",
+              "RelativeToolTip": "Files\\11.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:39:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "17.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\17.txt",
+              "RelativeDocumentMoniker": "Files\\17.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\17.txt",
+              "RelativeToolTip": "Files\\17.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:38:59.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "16.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\16.txt",
+              "RelativeDocumentMoniker": "Files\\16.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\16.txt",
+              "RelativeToolTip": "Files\\16.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:38:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "15.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\15.txt",
+              "RelativeDocumentMoniker": "Files\\15.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\15.txt",
+              "RelativeToolTip": "Files\\15.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T11:38:52.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Building_Files\\Base.cs",
               "RelativeDocumentMoniker": "Building_Files\\Base.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Building_Files\\Base.cs",
               "RelativeToolTip": "Building_Files\\Base.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T18:40:26.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "10.txt",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Files\\10.txt",
               "RelativeDocumentMoniker": "Files\\10.txt",
@@ -59,24 +208,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Building_Files\\Program.cs",
-              "RelativeDocumentMoniker": "Building_Files\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Building_Files\\Program.cs",
-              "RelativeToolTip": "Building_Files\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:15:13.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Laba_3\\Program.cs",
               "RelativeDocumentMoniker": "Laba_3\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3\\Laba_3\\Program.cs",
               "RelativeToolTip": "Laba_3\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAIwEoAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T16:56:42.409Z",
               "EditorCaption": ""

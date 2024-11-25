@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3_Task_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E29E27-B4B3-4AC0-A614-CB40543C8D1B}|Laba_3_Task_2\\Laba_3_Task_2.csproj|c:\\users\\admin\\documents\\github\\opp\\laba_3_task_2\\laba_3_task_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E29E27-B4B3-4AC0-A614-CB40543C8D1B}|Laba_3_Task_2\\Laba_3_Task_2.csproj|solutionrelative:laba_3_task_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E29E27-B4B3-4AC0-A614-CB40543C8D1B}|Laba_3_Task_2\\Laba_3_Task_2.csproj|c:\\users\\admin\\documents\\github\\opp\\laba_3_task_2\\laba_3_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E29E27-B4B3-4AC0-A614-CB40543C8D1B}|Laba_3_Task_2\\Laba_3_Task_2.csproj|solutionrelative:laba_3_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E29E27-B4B3-4AC0-A614-CB40543C8D1B}|Laba_3_Task_2\\Laba_3_Task_2.csproj|c:\\users\\admin\\documents\\github\\opp\\laba_3_task_2\\laba_3_task_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E29E27-B4B3-4AC0-A614-CB40543C8D1B}|Laba_3_Task_2\\Laba_3_Task_2.csproj|solutionrelative:laba_3_task_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3_Task_2\\Laba_3_Task_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Laba_3_Task_2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3_Task_2\\Laba_3_Task_2\\Form1.Designer.cs",
+              "RelativeToolTip": "Laba_3_Task_2\\Form1.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:44:06.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3_Task_2\\Laba_3_Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Laba_3_Task_2\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3_Task_2\\Laba_3_Task_2\\Program.cs",
+              "RelativeToolTip": "Laba_3_Task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:53:56.166Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 379,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3_Task_2\\Laba_3_Task_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Laba_3_Task_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba_3_Task_2\\Laba_3_Task_2\\Form1.cs",
+              "RelativeToolTip": "Laba_3_Task_2\\Form1.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAADoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:27:43.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
