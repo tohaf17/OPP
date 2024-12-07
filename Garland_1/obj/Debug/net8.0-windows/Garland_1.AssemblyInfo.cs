@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Garland_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cb9f2e442bbc571e48bca67cbfe7427bada96c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49ebaee35ba1cee7263dac37a1c184476b25cd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Garland_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Garland_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

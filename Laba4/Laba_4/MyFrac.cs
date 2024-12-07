@@ -14,7 +14,7 @@ namespace Laba_4
         public MyFrac(BigInteger _nom, BigInteger _denom)
         {
             if (_denom == 0)
-                throw new ArgumentException("Denominator cannot be zero.", nameof(_denom));
+                throw new ArgumentException("Denom cannot be zero.", nameof(_denom));
 
             BigInteger gcd = GCD(_nom, _denom);
             nom = (_denom > 0) ? _nom / gcd : -(_nom / gcd);
@@ -32,32 +32,6 @@ namespace Laba_4
             return BigInteger.Abs(a);
         }
 
-        //public MyFrac(int _nom,int _denom)
-        //{
-        //    if (_nom != 0)
-        //    {
-        //        int a = _nom;
-        //        int b = _denom;
-        //        while (b != 0)
-        //        {
-        //            if (a > b)
-        //            {
-        //                a = a - b;
-        //            }
-        //            else
-        //            {
-        //                b = b - a;
-        //            }
-        //        }
-
-        //        nom = (_denom > 0) ? _nom / a : -(_nom / a);
-        //        denom = (_denom > 0) ? _denom / a : Math.Abs(_denom) / a;
-        //    }
-        //    else
-        //    {
-        //        nom = 0; denom = _denom;
-        //    }
-        //}
         public MyFrac Add(MyFrac that)
         {
             BigInteger new_nom = this.nom * that.denom + that.nom * this.denom;

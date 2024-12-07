@@ -1,0 +1,17 @@
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.Form1.resources
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.csproj.GenerateResource.cache
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.AssemblyInfoInputs.cache
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.AssemblyInfo.cs
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.csproj.CoreCompileInputs.cache
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.sourcelink.json
+D:\GitHub\OPP\Garland\bin\Debug\net8.0-windows\Garland.exe
+D:\GitHub\OPP\Garland\bin\Debug\net8.0-windows\Garland.deps.json
+D:\GitHub\OPP\Garland\bin\Debug\net8.0-windows\Garland.runtimeconfig.json
+D:\GitHub\OPP\Garland\bin\Debug\net8.0-windows\Garland.dll
+D:\GitHub\OPP\Garland\bin\Debug\net8.0-windows\Garland.pdb
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.dll
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\refint\Garland.dll
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.pdb
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\Garland.genruntimeconfig.cache
+D:\GitHub\OPP\Garland\obj\Debug\net8.0-windows\ref\Garland.dll

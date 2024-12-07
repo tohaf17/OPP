@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|d:\\github\\opp\\ho_ho_ho\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|d:\\github\\opp\\ho_ho_ho\\bag_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|solutionrelative:bag_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|d:\\github\\opp\\ho_ho_ho\\bag_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|solutionrelative:bag_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bag_Form.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Bag_Form.cs",
+              "RelativeDocumentMoniker": "Bag_Form.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Bag_Form.cs",
+              "RelativeToolTip": "Bag_Form.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:30:25.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bag_Form.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Bag_Form.cs",
+              "RelativeDocumentMoniker": "Bag_Form.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Bag_Form.cs [Design]",
+              "RelativeToolTip": "Bag_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:20:20.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwI8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:34:39.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

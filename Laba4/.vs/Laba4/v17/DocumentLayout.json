@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|c:\\users\\admin\\documents\\github\\opp\\laba4\\laba_4\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|c:\\users\\admin\\documents\\github\\opp\\laba4\\laba_4\\myfrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\myfrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|c:\\users\\admin\\documents\\github\\opp\\laba4\\laba_4\\test_my_frac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\test_my_frac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|c:\\users\\admin\\documents\\github\\opp\\laba4\\laba_4\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|c:\\users\\admin\\documents\\github\\opp\\laba4\\laba_4\\myfrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\myfrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|c:\\users\\admin\\documents\\github\\opp\\laba4\\laba_4\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{168D7F4F-6033-4DC2-85B9-DBE21ECE8A1D}|Laba_4\\Laba_4.csproj|solutionrelative:laba_4\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MyFrac.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\MyFrac.cs",
               "RelativeDocumentMoniker": "Laba_4\\MyFrac.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\MyFrac.cs",
               "RelativeToolTip": "Laba_4\\MyFrac.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAIwIEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T17:30:47.452Z",
               "IsPinned": true,
@@ -52,46 +52,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Test_Complex.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\Test_Complex.cs",
               "RelativeDocumentMoniker": "Laba_4\\Test_Complex.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\Test_Complex.cs",
               "RelativeToolTip": "Laba_4\\Test_Complex.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T17:26:46.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T17:26:46.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Test_My_Frac.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\Test_My_Frac.cs",
               "RelativeDocumentMoniker": "Laba_4\\Test_My_Frac.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\Test_My_Frac.cs",
               "RelativeToolTip": "Laba_4\\Test_My_Frac.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T17:25:45.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T17:25:45.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Complex.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\Complex.cs",
               "RelativeDocumentMoniker": "Laba_4\\Complex.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\Complex.cs",
               "RelativeToolTip": "Laba_4\\Complex.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T15:12:03.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T15:12:03.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Interface1.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\OPP\\Laba4\\Laba_4\\Interface1.cs",
               "RelativeDocumentMoniker": "Laba_4\\Interface1.cs",
