@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\OPP\\Aquarium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|d:\\github\\opp\\aquarium\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|d:\\github\\opp\\aquarium\\herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|solutionrelative:herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|d:\\github\\opp\\aquarium\\\u0441arnivorous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|solutionrelative:\u0441arnivorous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|D:\\GitHub\\OPP\\Aquarium\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|d:\\github\\opp\\aquarium\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81B3EFB-0605-4414-BE68-1F09D0391D2E}|Aquarium.csproj|solutionrelative:abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Herbivore.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Aquarium\\Herbivore.cs",
+              "RelativeDocumentMoniker": "Herbivore.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Aquarium\\Herbivore.cs",
+              "RelativeToolTip": "Herbivore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:51:55.473Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0421arnivorous.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Aquarium\\\u0421arnivorous.cs",
+              "RelativeDocumentMoniker": "\u0421arnivorous.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Aquarium\\\u0421arnivorous.cs",
+              "RelativeToolTip": "\u0421arnivorous.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwIgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:47:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abstract.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Aquarium\\Abstract.cs",
+              "RelativeDocumentMoniker": "Abstract.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Aquarium\\Abstract.cs",
+              "RelativeToolTip": "Abstract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:18:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Aquarium\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Aquarium\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:41:53.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Aquarium\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Aquarium\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:14:10.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

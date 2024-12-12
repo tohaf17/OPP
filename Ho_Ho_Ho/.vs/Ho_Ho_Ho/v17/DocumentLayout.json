@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|d:\\github\\opp\\ho_ho_ho\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|D:\\GitHub\\OPP\\Ho_Ho_Ho\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|d:\\github\\opp\\ho_ho_ho\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25E05A-114D-47F0-BFDC-61F278D8753C}|Ho_Ho_Ho.csproj|solutionrelative:snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:05:38.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:05:29.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snowflake.cs",
+              "DocumentMoniker": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Snowflake.cs",
+              "RelativeDocumentMoniker": "Snowflake.cs",
+              "ToolTip": "D:\\GitHub\\OPP\\Ho_Ho_Ho\\Snowflake.cs",
+              "RelativeToolTip": "Snowflake.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:49:07.992Z"
             }
           ]
         }
